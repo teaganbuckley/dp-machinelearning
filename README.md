@@ -2,9 +2,6 @@
 ```
 This is a machine learning app.
 ```
-
-Description of the app ...
-
 ## Demo App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dp-machinelearning.streamlit.app/)
