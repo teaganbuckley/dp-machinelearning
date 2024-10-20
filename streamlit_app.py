@@ -19,6 +19,7 @@ with st.expander('Data'):
   Y
 
 with st.expander('Data Visualization'):
+  st.write('**This is a Scatter Chart**')
   st.scatter_chart(data=df, x='bill_length_mm', y='body_mass_g', color='species')
   st.write('**This is a Bar Chart**')
   st.bar_chart(data=df, x='bill_length_mm', y='body_mass_g', color='#ffaa0088', x_label='Bill Length (MM)', y_label='Body Mass (G)')
