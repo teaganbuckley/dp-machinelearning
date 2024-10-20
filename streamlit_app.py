@@ -3,7 +3,7 @@ import pandas as pd
 
 st.title('🤖 Machine Learning App')
 
-st.write('This app builds a machine learning model.')
+st.info('This app builds a machine learning model.')
 
 with st.expander('Data'):
   st.write('**Raw Data**')
